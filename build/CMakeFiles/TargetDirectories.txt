@@ -1,3 +1,0 @@
-/home/gunse/dev/todoliste/build/CMakeFiles/todo.dir
-/home/gunse/dev/todoliste/build/CMakeFiles/edit_cache.dir
-/home/gunse/dev/todoliste/build/CMakeFiles/rebuild_cache.dir
